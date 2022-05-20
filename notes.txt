@@ -1,0 +1,2 @@
+Step 1: make files (index.html, in-stock.html, info.html)
+Step 2: homepage header Business name followed by picture of
